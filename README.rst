@@ -27,12 +27,12 @@ AppCoins - other repositories:
    * AppCoins-ethereumj - Java implementation of the Ethereum yellowpaper
       https://github.com/Aptoide/AppCoins-ethereumj
       
-   * AppCoins-proof-of-attention - 
+   * AppCoins-proof-of-attention - Android project to evaluate Proof-of-Attention API availability.
       https://github.com/Aptoide/AppCoins-proof-of-attention
 
 
 AppCoins-proof-of-attention:
 ------------
  
-
+Android project to evaluate Proof-of-Attention API availability.
 
